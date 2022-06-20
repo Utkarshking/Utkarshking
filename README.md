@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Utkarshking
 - Open-Source Contributor
 - Codechef @Lucifer._.Utkarsh (3⭐)
-- Leetcode @Utkarshking(2⭐)
+- Leetcode @Utkarshking(3⭐)
 - 👀 I’m interested in ... --> Reactjs, Spring,Nodejs,FIREBASE MongoDB,Machine Learning
 - 🌱 I’m currently learning ... --> Machine Learning and Data Analytics
 - 💞️ I’m looking to collaborate on ...-->Web Development Projects and Also Android 
