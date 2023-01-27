@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">Hii..! Folks My Name is Utkarsh Singh I am a Final Year Undergraduate Student pursuing B.Tech Computer Science and Engineering from UPES</h3>
-
+[![An image of @utkarshking's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshking)](https://holopin.io/@utkarshking)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshking&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshking" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshking" alt="utkarshking" /></a> </p>
