@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Pneumonia Detection](https://github.com/Utkarshking/Pneumonia-Detection-ML)
-
 - 🌱 I’m currently learning **Nodejs,Reactjs,Nextjs,Mongoose,MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-9ce25.web.app/](https://portfolio-website-9ce25.web.app/)
